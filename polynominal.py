@@ -16,5 +16,5 @@ while j >= 0:
 print("f(x0) = ", end="")
 print("f(", end="")
 print(x, end="")
-print(") = ", answer)
-print
+print("") = ", answer)
+print("Anh Hung dep trai vl")
