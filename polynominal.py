@@ -17,3 +17,4 @@ print("f(x0) = ", end="")
 print("f(", end="")
 print(x, end="")
 print(") = ", answer)
+print
